@@ -12,7 +12,7 @@
   <div class="container my-5">
     <div class="row">
       <div class="col-md-8">
-        <h1>Your Name</h1>
+        <h1>Charles Andrew Thompson</h1>
         <p><i class="fas fa-map-marker-alt"></i> Location: Rathdrum, USA</p>
         <p><i class="fab fa-github"></i> GitHub: <a href="https://github.com/Frantikzz">frantikzz</a></p>
       </div>
